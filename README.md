@@ -30,7 +30,7 @@ Ensure you have the following installed:
 ### Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Anikethanjoshi/Landing_Page.git
    cd yourproject
    ```
 2. **Install dependencies**
@@ -76,10 +76,9 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For any queries or support, reach out to:
-- **Email:** yourname@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
-
+- **Email:** anikethanajoshi@gmail.com
+- **GitHub:** https://github.com/Anikethanjoshi/Landing_Page.git
+  
 ---
 ### Happy Coding! 🚀
 
